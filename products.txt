@@ -1,0 +1,3 @@
+[{"title":"Pc Gamer Armada Completa Intel I5 10105f 16gb Ssd 240 Rx 550","price":102060,"thumbnail":"/imgs/pc2.png","id":1},
+{"title":"Pc Gamer Armada Completa Intel I3 9500k 16gb Ssd 240 Rx 550","price":92060,"thumbnail":"/imgs/pc3.png","id":2},
+{"title":"Pc Gamer Armada Completa Intel I7 12105f 16gb Ssd 240 Rx 550","price":122060,"thumbnail":"/imgs/pc4.png","id":3}]
